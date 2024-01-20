@@ -4,7 +4,7 @@ public class Example2 {
 
 	public static void main(String[] args) {
 	
-System.out.println("2ND Example of github");
+System.out.println("2ND Example of githubdfgdfgdfdfgdfgdg");
 	}
 
 }
