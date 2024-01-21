@@ -42,5 +42,6 @@ public class Equals_Hashcode {
 		System.out.println("e3: "+e3+".."+e3.hashCode());
 		System.out.println(e1.equals(e2));
 		System.out.println(e1.equals(e3));
+		System.out.println("Finally");
 	}
 }
